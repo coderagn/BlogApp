@@ -1,2 +1,0 @@
-# BlogApp
-Sample Blog App
